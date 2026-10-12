@@ -12,7 +12,7 @@ A personal mechanical design project combining MATLAB geometry generation, Solid
 
 ## Geometry generation
 
-The included [MATLAB script](src/cycloidal_drive_solidworks.m) produces nominal 2D disc geometry, a ring-pin layout, pin-coordinate tables, and a design summary. It does not complete the shaft, housing, bearing-fit, or strength design.
+The included [MATLAB script](src/cycloidal_drive_generator_COMPLETE.m) produces nominal 2D disc geometry, a ring-pin layout, pin-coordinate tables, and a design summary. It does not complete the shaft, housing, bearing-fit, or strength design.
 
 For the layout represented by this script, the fixed ring contains one more pin than the disc has lobes. Its default 20:1 reduction design therefore uses 21 ring pins and 20 disc lobes. A reduction ratio describes speed reduction; actual torque gain also depends on losses.
 
