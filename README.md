@@ -61,3 +61,5 @@ Import the DXF with millimeter units and verify a known dimension. The disc peri
 ## Evidence to add
 
 The next update will include photos of the printed components, CAD screenshots, assembly drawings, and a short demonstration video. Measured results will be added after testing.
+
+![FDM-printed cycloidal gear components](Cycloidal_gear_printed.jpg)
