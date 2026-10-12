@@ -34,8 +34,8 @@ These are the included script's settings, not a verified as-built specification.
 ## Run the script
 
 1. Open MATLAB and set the current folder to `src`.
-2. Open `cycloidal_drive_solidworks.m` and review the user settings.
-3. Run `cycloidal_drive_solidworks`.
+2. Open `cycloidal_drive_generator_COMPLETE.m` and review the user settings.
+3. Run `cycloidal_drive_generator_COMPLETE`.
 4. Inspect the plotted geometry before importing the DXF into CAD.
 
 At the default ratio, the script writes a `cycloidal_20to1_output` folder containing:
