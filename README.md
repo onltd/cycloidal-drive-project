@@ -9,7 +9,7 @@ A personal mechanical design project combining MATLAB geometry generation, Solid
 - Used MATLAB to generate cycloidal profiles for 10:1 and 20:1 reduction designs and export geometry for CAD.
 - Modeled components in SolidWorks and FDM-printed the gear components.
 - Am designing the remaining assembly components, considering eccentric motion, bearing interfaces, component fits, and assembly clearances.
-- I used ChatGPT to help develop the MATLAB geometry generator. My work includes using the generated profiles in SolidWorks, modeling components, FDM-printing the gears, and designing the remaining assembly.
+- Used ChatGPT to help develop and optimize the MATLAB geometry generator. 
 
 ## Geometry generation
 
